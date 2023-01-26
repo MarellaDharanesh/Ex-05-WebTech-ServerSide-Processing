@@ -80,10 +80,15 @@ If it is working successfully then take pics of output and push changes to githu
     </body>
 
 </html> 
-# OUTPUT:
-## Client Side Output:
 
-## Server Side Output:
+## OUTPUT:
+
+![Screenshot (44)](https://user-images.githubusercontent.com/118707669/214764708-ffb1a72d-9b2d-475b-8c01-7b1e5c46cc01.png)
+
+# Server Side Output:
+![Screenshot (43)](https://user-images.githubusercontent.com/118707669/214764515-98890a09-d2a9-4a06-9122-0b3ca5f0aa08.png)
+# Validation Certificate:
+![image](https://user-images.githubusercontent.com/118707669/214764582-963d24e7-ddfa-4a05-9ae8-770e23d24852.png)
 
 # RESULT:
 
